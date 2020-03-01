@@ -8,6 +8,7 @@ namespace Incapsulation.RationalNumbers
 {
     public class Rational
     {
+        
         public int Numerator { get; private set; }
         public int Denominator { get; private set; }
         public bool IsNan { get; private set; }
