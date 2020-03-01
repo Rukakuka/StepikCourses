@@ -42,4 +42,5 @@ namespace Incapsulation.EnterpriseTask
             return amount;
         }
     }
+    // <minor change></minor change>
 }
