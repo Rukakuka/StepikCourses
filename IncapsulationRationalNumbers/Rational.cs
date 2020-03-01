@@ -28,6 +28,7 @@ namespace Incapsulation.RationalNumbers
 
             CheckForNan(this.Denominator);
             CheckForZero(this.Numerator);
+            // <minor change> </minor change>
         }
         public Rational()
         {
