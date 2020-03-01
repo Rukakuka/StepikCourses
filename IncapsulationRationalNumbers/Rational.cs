@@ -28,7 +28,6 @@ namespace Incapsulation.RationalNumbers
 
             CheckForNan(this.Denominator);
             CheckForZero(this.Numerator);
-            // <minor change> </minor change>
         }
         public Rational()
         {
@@ -70,6 +69,7 @@ namespace Incapsulation.RationalNumbers
 
             return new Rational(R.Numerator/greatestCommonDivisor, R.Denominator/greatestCommonDivisor);
 
+            // http://en.wikipedia.org/wiki/Euclidean_algorithm
             int GreatestCommonDivisor(int num, int den)
             {
                 return (den == 0) ? num : GreatestCommonDivisor(den, num % den);
