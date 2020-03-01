@@ -51,6 +51,7 @@ namespace Incapsulation.RationalNumbers
         [TestCase(1, 1, 1, 1)]
         public void InitializeAndReduce1(int expectedNum, int expectedDen, int num, int den)
         {
+            Console.WriteLine("Test case : expected " + expectedNum + " " + expectedDen + " " + " real" + " " + num + " " + den);
             AssertEqual(expectedNum, expectedDen, new Rational(num, den));
         }
 
@@ -120,6 +121,7 @@ namespace Incapsulation.RationalNumbers
         [TestCase(0, 0, double.NaN)]
         public void ConvertToDouble(int numerator, int denominator, double expectedValue)
         {
+
             double v = new Rational(numerator, denominator);
             Assert.AreEqual(expectedValue, v, 1e-7);
         }
