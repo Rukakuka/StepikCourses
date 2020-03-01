@@ -11,9 +11,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ULearnCourses
+namespace ULearnCourses.Lesson13
 {
-    class Lesson13_2
+    public class Task2
     {
         public static void ArrayExample()
         {
@@ -47,8 +47,7 @@ namespace ULearnCourses
             for (int j = 0; j < arrays.Length; j++)
                 for (int i = 0; i < arrays[j].Length; i++)
                 {
-                    concatenated.SetValue(arrays[j].GetValue(i), count);
-                    count++;
+                    concatenated.SetValue(arrays[j].GetValue(i), count++);
                 }
             return concatenated;
         }

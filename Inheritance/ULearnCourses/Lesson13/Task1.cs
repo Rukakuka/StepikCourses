@@ -7,9 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ULearnCourses
+namespace ULearnCourses.Lesson13
 {
-    class Lesson13_1
+    public class Task1
     {
         public static void PrintForAll()
         {
