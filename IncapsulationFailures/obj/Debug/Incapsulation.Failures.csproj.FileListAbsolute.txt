@@ -1,0 +1,10 @@
+E:\MVSprojects\IncapsulationFailures\bin\Debug\ReportMaker.cs
+E:\MVSprojects\IncapsulationFailures\bin\Debug\Incapsulation.Failures.exe.config
+E:\MVSprojects\IncapsulationFailures\bin\Debug\Incapsulation.Failures.exe
+E:\MVSprojects\IncapsulationFailures\bin\Debug\Incapsulation.Failures.pdb
+E:\MVSprojects\IncapsulationFailures\bin\Debug\nunit.framework.dll
+E:\MVSprojects\IncapsulationFailures\bin\Debug\nunitlite.dll
+E:\MVSprojects\IncapsulationFailures\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+E:\MVSprojects\IncapsulationFailures\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+E:\MVSprojects\IncapsulationFailures\obj\Debug\Incapsulation.Failures.exe
+E:\MVSprojects\IncapsulationFailures\obj\Debug\Incapsulation.Failures.pdb

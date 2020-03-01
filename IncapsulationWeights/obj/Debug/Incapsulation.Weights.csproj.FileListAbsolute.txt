@@ -1,0 +1,9 @@
+E:\MVSprojects\IncapsulationWeights\bin\Debug\Incapsulation.Weights.exe.config
+E:\MVSprojects\IncapsulationWeights\bin\Debug\Incapsulation.Weights.exe
+E:\MVSprojects\IncapsulationWeights\bin\Debug\Incapsulation.Weights.pdb
+E:\MVSprojects\IncapsulationWeights\bin\Debug\nunit.framework.dll
+E:\MVSprojects\IncapsulationWeights\bin\Debug\nunitlite.dll
+E:\MVSprojects\IncapsulationWeights\obj\Debug\Incapsulation.Weights.csprojAssemblyReference.cache
+E:\MVSprojects\IncapsulationWeights\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+E:\MVSprojects\IncapsulationWeights\obj\Debug\Incapsulation.Weights.exe
+E:\MVSprojects\IncapsulationWeights\obj\Debug\Incapsulation.Weights.pdb

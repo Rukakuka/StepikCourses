@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Incapsulation.Weights.exe" fullname="E:/MVSprojects/IncapsulationWeights/bin/Debug/Incapsulation.Weights.exe" testcasecount="27" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:38Z" duration="6.733352" total="27" passed="27" failed="0" inconclusive="0" skipped="0" asserts="18" random-seed="2064342147">
+  <command-line><![CDATA["E:\MVSprojects\IncapsulationWeights\bin\Debug\Incapsulation.Weights.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1034" name="Incapsulation.Weights.exe" fullname="E:/MVSprojects/IncapsulationWeights/bin/Debug/Incapsulation.Weights.exe" runstate="Runnable" testcasecount="27" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:38Z" duration="6.733352" total="27" passed="27" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="18">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\MVSprojects\IncapsulationWeights\bin\Debug" machine-name="DESKTOP-LOJ2P29" user="tehni" user-domain="DESKTOP-LOJ2P29" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="E:\MVSprojects\IncapsulationWeights\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="25080" />
+      <property name="_APPDOMAIN" value="Incapsulation.Weights.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1035" name="Incapsulation" fullname="Incapsulation" runstate="Runnable" testcasecount="27" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:38Z" duration="6.715493" total="27" passed="27" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="18">
+      <test-suite type="TestSuite" id="1036" name="Weights" fullname="Incapsulation.Weights" runstate="Runnable" testcasecount="27" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:38Z" duration="6.711517" total="27" passed="27" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="18">
+        <test-suite type="TestFixture" id="1000" name="Indexer_should" fullname="Incapsulation.Weights.Indexer_should" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="27" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:38Z" duration="6.706509" total="27" passed="27" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="18">
+          <test-suite type="ParameterizedMethod" id="1027" name="ConstructoNotFail_WhenRangeIsValid" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="9" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.049555" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+            <test-case id="1018" name="ConstructoNotFail_WhenRangeIsValid(0,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(0,0)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1097935961" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.006585" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1019" name="ConstructoNotFail_WhenRangeIsValid(0,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(0,1)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1730437182" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000114" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1020" name="ConstructoNotFail_WhenRangeIsValid(0,4)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(0,4)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1303421694" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000106" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1021" name="ConstructoNotFail_WhenRangeIsValid(1,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(1,0)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="581865308" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000093" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1022" name="ConstructoNotFail_WhenRangeIsValid(1,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(1,1)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1406683130" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000086" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1023" name="ConstructoNotFail_WhenRangeIsValid(1,3)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(1,3)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1398393709" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000076" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1024" name="ConstructoNotFail_WhenRangeIsValid(3,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(3,0)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1400586528" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000147" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1025" name="ConstructoNotFail_WhenRangeIsValid(3,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(3,1)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="924261283" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000072" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+            <test-case id="1026" name="ConstructoNotFail_WhenRangeIsValid(4,0)" fullname="Incapsulation.Weights.Indexer_should.ConstructoNotFail_WhenRangeIsValid(4,0)" methodname="ConstructoNotFail_WhenRangeIsValid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1994213944" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:31Z" duration="0.000076" asserts="0">
+              <output><![CDATA[ConstructoNotFail_WhenRangeIsValid
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1017" name="ConstructorFails_WhenRangeIsInvalid" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="8" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:36Z" duration="4.419405" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="8">
+            <test-case id="1009" name="ConstructorFails_WhenRangeIsInvalid(-1,3)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(-1,3)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1252721497" result="Passed" start-time="2020-02-29 08:58:31Z" end-time="2020-02-29 08:58:33Z" duration="1.480865" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1010" name="ConstructorFails_WhenRangeIsInvalid(1,-1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(1,-1)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="276533670" result="Passed" start-time="2020-02-29 08:58:33Z" end-time="2020-02-29 08:58:33Z" duration="0.505455" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1011" name="ConstructorFails_WhenRangeIsInvalid(1,10)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(1,10)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1218962118" result="Passed" start-time="2020-02-29 08:58:33Z" end-time="2020-02-29 08:58:33Z" duration="0.362167" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1012" name="ConstructorFails_WhenRangeIsInvalid(0,5)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(0,5)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="598434045" result="Passed" start-time="2020-02-29 08:58:33Z" end-time="2020-02-29 08:58:34Z" duration="0.383021" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1013" name="ConstructorFails_WhenRangeIsInvalid(1,4)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(1,4)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1659778229" result="Passed" start-time="2020-02-29 08:58:34Z" end-time="2020-02-29 08:58:34Z" duration="0.393435" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1014" name="ConstructorFails_WhenRangeIsInvalid(2,3)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(2,3)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="532956104" result="Passed" start-time="2020-02-29 08:58:34Z" end-time="2020-02-29 08:58:35Z" duration="0.425414" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1015" name="ConstructorFails_WhenRangeIsInvalid(3,2)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(3,2)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1052563104" result="Passed" start-time="2020-02-29 08:58:35Z" end-time="2020-02-29 08:58:35Z" duration="0.381704" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+            <test-case id="1016" name="ConstructorFails_WhenRangeIsInvalid(4,1)" fullname="Incapsulation.Weights.Indexer_should.ConstructorFails_WhenRangeIsInvalid(4,1)" methodname="ConstructorFails_WhenRangeIsInvalid" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1511487253" result="Passed" start-time="2020-02-29 08:58:35Z" end-time="2020-02-29 08:58:36Z" duration="0.456815" asserts="1">
+              <output><![CDATA[ConstructorFails_WhenRangeIsInvalid
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1004" name="GetCorrectly" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:36Z" duration="0.024998" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="1002" name="GetCorrectly(0,2)" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly(0,2)" methodname="GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1459958130" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:36Z" duration="0.017043" asserts="1">
+              <output><![CDATA[GetCorrectly
+]]></output>
+            </test-case>
+            <test-case id="1003" name="GetCorrectly(1,3)" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly(1,3)" methodname="GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1335766803" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:36Z" duration="0.000123" asserts="1">
+              <output><![CDATA[GetCorrectly
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-case id="1001" name="HaveCorrectLength" fullname="Incapsulation.Weights.Indexer_should.HaveCorrectLength" methodname="HaveCorrectLength" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1138884746" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:36Z" duration="0.000825" asserts="1">
+            <output><![CDATA[HaveCorrectLength
+]]></output>
+          </test-case>
+          <test-case id="1008" name="IndexerDoesNotCopyArray" fullname="Incapsulation.Weights.Indexer_should.IndexerDoesNotCopyArray" methodname="IndexerDoesNotCopyArray" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1928918711" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:36Z" duration="0.000430" asserts="1">
+            <output><![CDATA[IndexerDoesNotCopyArray
+]]></output>
+          </test-case>
+          <test-suite type="ParameterizedMethod" id="1030" name="IndexerGetter_Fails_WhenIndexIsWrong" fullname="Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:37Z" duration="1.055895" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="1028" name="IndexerGetter_Fails_WhenIndexIsWrong(-1)" fullname="Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong(-1)" methodname="IndexerGetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="605925213" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:36Z" duration="0.602777" asserts="1">
+              <output><![CDATA[Try - indexerGetter_Fails_WhenIndexIsWrong
+IndexerGetter_Fails_WhenIndexIsWrong
+]]></output>
+            </test-case>
+            <test-case id="1029" name="IndexerGetter_Fails_WhenIndexIsWrong(2)" fullname="Incapsulation.Weights.Indexer_should.IndexerGetter_Fails_WhenIndexIsWrong(2)" methodname="IndexerGetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="762737438" result="Passed" start-time="2020-02-29 08:58:36Z" end-time="2020-02-29 08:58:37Z" duration="0.445611" asserts="1">
+              <output><![CDATA[Try - indexerGetter_Fails_WhenIndexIsWrong
+IndexerGetter_Fails_WhenIndexIsWrong
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1033" name="IndexerSetter_Fails_WhenIndexIsWrong" fullname="Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2020-02-29 08:58:37Z" end-time="2020-02-29 08:58:38Z" duration="1.109267" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="1031" name="IndexerSetter_Fails_WhenIndexIsWrong(-1)" fullname="Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong(-1)" methodname="IndexerSetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1296979071" result="Passed" start-time="2020-02-29 08:58:37Z" end-time="2020-02-29 08:58:37Z" duration="0.681182" asserts="1">
+              <output><![CDATA[IndexerSetter_Fails_WhenIndexIsWrong
+]]></output>
+            </test-case>
+            <test-case id="1032" name="IndexerSetter_Fails_WhenIndexIsWrong(2)" fullname="Incapsulation.Weights.Indexer_should.IndexerSetter_Fails_WhenIndexIsWrong(2)" methodname="IndexerSetter_Fails_WhenIndexIsWrong" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="430871016" result="Passed" start-time="2020-02-29 08:58:37Z" end-time="2020-02-29 08:58:38Z" duration="0.420452" asserts="1">
+              <output><![CDATA[IndexerSetter_Fails_WhenIndexIsWrong
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1007" name="SetCorrectly" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2020-02-29 08:58:38Z" end-time="2020-02-29 08:58:38Z" duration="0.008023" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="1005" name="SetCorrectly(0)" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly(0)" methodname="SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1291537013" result="Passed" start-time="2020-02-29 08:58:38Z" end-time="2020-02-29 08:58:38Z" duration="0.000306" asserts="1">
+              <output><![CDATA[SetCorrectly
+]]></output>
+            </test-case>
+            <test-case id="1006" name="SetCorrectly(1)" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly(1)" methodname="SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="2094167237" result="Passed" start-time="2020-02-29 08:58:38Z" end-time="2020-02-29 08:58:38Z" duration="0.000049" asserts="1">
+              <output><![CDATA[SetCorrectly
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

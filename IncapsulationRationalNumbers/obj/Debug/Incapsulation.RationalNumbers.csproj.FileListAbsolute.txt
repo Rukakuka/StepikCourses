@@ -1,0 +1,9 @@
+E:\MVSprojects\IncapsulationRationalNumbers\obj\Debug\Incapsulation.RationalNumbers.csprojAssemblyReference.cache
+E:\MVSprojects\IncapsulationRationalNumbers\bin\Debug\Incapsulation.RationalNumbers.exe.config
+E:\MVSprojects\IncapsulationRationalNumbers\bin\Debug\Incapsulation.RationalNumbers.exe
+E:\MVSprojects\IncapsulationRationalNumbers\bin\Debug\Incapsulation.RationalNumbers.pdb
+E:\MVSprojects\IncapsulationRationalNumbers\bin\Debug\nunit.framework.dll
+E:\MVSprojects\IncapsulationRationalNumbers\bin\Debug\nunitlite.dll
+E:\MVSprojects\IncapsulationRationalNumbers\obj\Debug\Incapsulation.RationalNumbers.csproj.CopyComplete
+E:\MVSprojects\IncapsulationRationalNumbers\obj\Debug\Incapsulation.RationalNumbers.exe
+E:\MVSprojects\IncapsulationRationalNumbers\obj\Debug\Incapsulation.RationalNumbers.pdb

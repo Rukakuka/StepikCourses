@@ -1,0 +1,12 @@
+E:\MVSprojects\Study_Photoshop\bin\Debug\cat.jpg
+E:\MVSprojects\Study_Photoshop\bin\Debug\MyPhotoshop.exe
+E:\MVSprojects\Study_Photoshop\bin\Debug\MyPhotoshop.pdb
+E:\MVSprojects\Study_Photoshop\obj\x86\Debug\MyPhotoshop.exe
+E:\MVSprojects\Study_Photoshop\obj\x86\Debug\MyPhotoshop.pdb
+E:\MVSprojects\Study_Photoshop\obj\x86\Debug\Photoshop.csprojAssemblyReference.cache
+E:\MVSprojects\StudyPhotoshop\obj\x86\Debug\Photoshop.csprojAssemblyReference.cache
+E:\MVSprojects\StudyPhotoshop\obj\x86\Debug\MyPhotoshop.exe
+E:\MVSprojects\StudyPhotoshop\obj\x86\Debug\MyPhotoshop.pdb
+E:\MVSprojects\StudyPhotoshop\bin\Debug\cat.jpg
+E:\MVSprojects\StudyPhotoshop\bin\Debug\MyPhotoshop.exe
+E:\MVSprojects\StudyPhotoshop\bin\Debug\MyPhotoshop.pdb

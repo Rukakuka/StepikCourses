@@ -1,0 +1,8 @@
+E:\MVSprojects\IncapsulationEnterpriseTask\bin\Debug\Incapsulation.Enterprise.dll.config
+E:\MVSprojects\IncapsulationEnterpriseTask\bin\Debug\Incapsulation.Enterprise.dll
+E:\MVSprojects\IncapsulationEnterpriseTask\bin\Debug\Incapsulation.Enterprise.pdb
+E:\MVSprojects\IncapsulationEnterpriseTask\bin\Debug\nunit.framework.dll
+E:\MVSprojects\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.EnterpriseTask.csprojAssemblyReference.cache
+E:\MVSprojects\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.EnterpriseTask.csproj.CopyComplete
+E:\MVSprojects\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.Enterprise.dll
+E:\MVSprojects\IncapsulationEnterpriseTask\obj\Debug\Incapsulation.Enterprise.pdb
