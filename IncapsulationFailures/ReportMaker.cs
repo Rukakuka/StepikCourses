@@ -1,6 +1,4 @@
-﻿// Вставьте сюда финальное содержимое файла ReportMaker.cs
-
-
+﻿
 
 using System;
 using System.Collections.Generic;
@@ -33,7 +31,7 @@ namespace Incapsulation.Failures
             return 0;
         }
     }
-
+    
     public class ReportMaker
     {
         /// <summary>
@@ -63,26 +61,25 @@ namespace Incapsulation.Failures
             Failure[] Failures = new Failure[failureTypes.Length];
 
             // <Ugly code to readable code>
-            int i = 0;
+
             foreach (var dev in devices)
             {
-                Devices[i] = new Device
+                Devices.Append(new Device 
                 {
                     Id = (int)dev["DeviceId"],
                     Name = (string)dev["Name"]
-                };
-                i++;
+                });
             }
-            i = 0;
-            foreach (int device in deviceId)
+
+            int i = 0;
+            foreach (var failure in failureTypes)
             {
-                Failures[i] =
-                    new Failure
-                    {
-                        Date = new DateTime((int)times[i][2], (int)times[i][1], (int)times[i][0]),
-                        DeviceId = deviceId[i],
-                        Type = (FailureType)failureTypes[i]
-                    };
+                Failures.Append(new Failure
+                {
+                    Date = new DateTime((int)times[i][2], (int)times[i][1], (int)times[i][0]),
+                    DeviceId = deviceId[i],
+                    Type = (FailureType)failureTypes[i]
+                });
                 i++;
             }
             // </Ugly code to readable code>

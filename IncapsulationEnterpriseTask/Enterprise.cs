@@ -13,8 +13,6 @@ namespace Incapsulation.EnterpriseTask
         }
 
         public string Name { get; set; }
-
-
         public string Inn
         {
             get { return Inn; }
@@ -25,9 +23,7 @@ namespace Incapsulation.EnterpriseTask
                 Inn = value;
             }
         }
-
         public DateTime EstablishDate { get; set; }
-
         public TimeSpan ActiveTimeSpan
         {
             get { return DateTime.Now - EstablishDate; }
